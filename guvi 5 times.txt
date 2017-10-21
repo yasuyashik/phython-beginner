@@ -1,0 +1,23 @@
+ef main():
+    pass
+list = ['GUVI']
+def foo(x):
+     print x * 5
+
+
+def my_map_simple(fun, list):
+     for item in list:
+         fun(item)
+
+
+my_map_simple(foo, list)
+
+
+if __name__ == '__main__':
+    main()
+
+*** Remote Interpreter Reinitialized  ***
+>>> 
+Cost of apple is 430
+New Cost of apple is 800
+>>> 
