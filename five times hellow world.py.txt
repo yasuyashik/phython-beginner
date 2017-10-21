@@ -1,0 +1,15 @@
+def main():
+    pass
+count = 0
+while (count < 9):
+   print 'The count is:', count
+   count = count + 5
+print "hellow world"
+if __name__ == '__main__':
+    main()
+*** Remote Interpreter Reinitialized  ***
+>>> 
+The count is: 0
+The count is: 5
+hellow world
+>>> 
