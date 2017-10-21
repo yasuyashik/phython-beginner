@@ -1,0 +1,12 @@
+ def main():
+    pass
+file = open("testfile.txt","w")
+
+file.write("Welcome Guvi........")
+
+file.close()
+if __name__ == '__main__':
+    main()
+*** Remote Interpreter Reinitialized  ***
+>>> 
+>>>
