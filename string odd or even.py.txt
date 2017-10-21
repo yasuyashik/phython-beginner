@@ -1,0 +1,13 @@
+def main():
+     pass
+     n=20
+     if(n/2):
+      print("given number is even")
+     elif():
+      print("given number is odd")
+if __name__ == '__main__':
+    main()
+*** Remote Interpreter Reinitialized  ***
+>>> 
+given number is even
+>>> 
